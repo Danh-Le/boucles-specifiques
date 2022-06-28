@@ -116,7 +116,17 @@
 //     console.log(factorielle)
 
 // // 08 - Chess board
-
+// const numbers = [0, 1, 2, 3, 4, 5, 6, 7]
+// numbers.forEach((num, i) => {
+//     numbers.forEach((j) => {
+//         if ((j + i) % 2 == 0) {
+//             num += `[ ]`
+//         } else {
+//             num += `[x]`
+//         }
+//     })
+//     console.log(num)
+// })
 
 // // 09 - Exercice 3 Bis
 // const array = [12, 55, "hello", true, { isStudent: false }, 3]
